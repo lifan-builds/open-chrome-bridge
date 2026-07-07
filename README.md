@@ -63,8 +63,8 @@ Clone this repo and copy the skill into Claude Code's skill directory:
 
 ```bash
 git clone https://github.com/lifan-builds/open-chrome-bridge.git
-mkdir -p ~/.claude/skills/chrome-opened-control
-cp open-chrome-bridge/SKILL.md ~/.claude/skills/chrome-opened-control/SKILL.md
+mkdir -p ~/.claude/skills/open-chrome-bridge
+cp open-chrome-bridge/SKILL.md ~/.claude/skills/open-chrome-bridge/SKILL.md
 ```
 
 Restart Claude Code or start a new session if the skill is not immediately visible.

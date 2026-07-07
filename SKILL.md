@@ -1,5 +1,5 @@
 ---
-name: chrome-opened-control
+name: open-chrome-bridge
 description: Use when the user wants to inspect, navigate, or control already-open Google Chrome tabs through the chrome-devtools MCP server. Covers listing tabs, selecting existing pages, clicking/typing, screenshots, console/network inspection, performance checks, and recovery when auto-connect fails.
 ---
 
