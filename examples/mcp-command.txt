@@ -1,0 +1,1 @@
+npx -y chrome-devtools-mcp@latest --autoConnect
