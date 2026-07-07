@@ -1,7 +1,7 @@
 {
   "$schema": "https://claude.ai/schemas/plugin.json",
   "name": "open-chrome-bridge",
-  "description": "Control already-open Chrome tabs through chrome-devtools MCP.",
+  "description": "Connect Claude Code to already-open local Chrome tabs through chrome-devtools MCP with safe workflows and setup guidance.",
   "version": "0.1.0",
   "author": {
     "name": "Lifan Chen"
@@ -11,10 +11,12 @@
   "license": "MIT",
   "keywords": [
     "chrome",
-    "browser",
     "mcp",
     "claude-code",
-    "devtools",
-    "automation"
+    "codex",
+    "chrome-devtools-mcp",
+    "browser-debugging",
+    "local-chrome",
+    "agent-tools"
   ]
 }
